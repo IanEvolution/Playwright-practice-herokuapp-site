@@ -1,0 +1,32 @@
+# Ignore node dependencies
+node_modules/
+
+# Playwright test results and reports
+test-results/
+playwright-report/
+ms-playwright/
+
+# Logs and temp files
+*.log
+*.tmp
+npm-debug.log*
+
+# Coverage reports
+coverage/
+
+# OS-specific files
+.DS_Store
+
+# Environment and local config
+*.env
+*.local
+
+# Database files
+*.sqlite
+*.db
+
+# Output folders
+output/
+
+# Package lock
+package-lock.json
