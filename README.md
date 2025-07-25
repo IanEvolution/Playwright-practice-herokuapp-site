@@ -14,6 +14,7 @@ This repository contains automated UI tests for [the-internet.herokuapp.com](htt
   - `contextMenu.spec.js`
   - `digestAuth.spec.js`
   - `disappearingElements.spec.js`
+  - `dragAndDrop.spec.js`
 
 ## Getting Started
 
